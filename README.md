@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Gabriel da Silva Gonçalves
+Matricula: 783599
 
 ## Tela de inspeção com navegador
-
+![Print inspeção com navegador](imagens/img1.png)
 
 ## Tela de projeto no Replit
-
+![Print projeto no Replit](imagens/img2.png)
